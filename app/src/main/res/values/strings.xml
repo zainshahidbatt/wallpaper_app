@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">My Wallpaper</string>
+
+    <!--  category  -->
+    <string name="category_toolbar_title">Category</string>
+    <string name="category_color_title">Color</string>
+    <string name="category_theme_title">Theme</string>
+
+    <!--  curated  -->
+    <string name="curated_toolbar_title">Curated</string>
+
+    <!--  search  -->
+    <string name="search_toolbar_title">Search</string>
+    <string name="install">Install</string>
+    <!--  favorites  -->
+    <string name="favorites_toolbar_title">Favorites</string>
+
+    <!--  photo  -->
+    <string name="photo_photographer_title">Photo by</string>
+    <string name="photo_resolution_title">Original resolution</string>
+    <string name="photo_download_btn">Download original</string>
+    <string name="photo_wallpaper_btn">Set as wallpaper</string>
+
+    <!--  common  -->
+    <string name="progress_title">your inspiration almost here</string>
+    <string name="pexels_promo">powered by Blue Lock Solutions</string>
+    <string name="placeholder_error">Oops\nSomething went wrong =(\nTry again later</string>
+    <string name="placeholder_try_now_btn">try now</string>
+    <string name="placeholder_search_empty_results">We did not find anything…</string>
+    <string name="placeholder_search">Here you will see photos by your search</string>
+    <string name="placeholder_loading_title">your inspiration almost here</string>
+    <string name="navigation_home">home</string>
+    <string name="navigation_curated">curated</string>
+    <string name="navigation_search">search</string>
+    <string name="navigation_favorite">favorite</string>
+
+
+    <!-- Error -->
+    <string name="error_unknown">We are unable to complete your request now. Please try again later!</string>
+    <string name="error_connection_not_found">Please check your connection settings and try again.</string>
+    <string name="error_connection_timeout">Connection timed out!</string>
+    <string name="title_home">Wallpaper App</string>
+    <string name="description_home">All photos are free to download and use under the Unsplash License.</string>
+    <string name="title_source">Source:</string>
+    <string name="title_license">License:</string>
+    <string name="title_profile">Profile:</string>
+    <string name="title_owner">Owner:</string>
+    <string name="title_information">Information</string>
+    <string name="button_set">SET</string>
+    <string name="button_download">DOWNLOAD</string>
+    <string name="photo_downloading">Photo is downloading…</string>
+    <string name="error_no_permission">You have to allow it to continue.</string>
+    <string name="not_supported_set_wallpaper">Not supported to apply wallpaper.</string>
+    <string name="download_success">Download is successful.</string>
+    <string name="downloaded">Downloaded %s</string>
+    <string name="you_have_no_fav">You have no favorites!</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="wallpaper_applied">Wallpaper is applied.</string>
+
+</resources>
